@@ -1,0 +1,15 @@
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\bin\Debug\net6.0\MyCalculator.exe
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\bin\Debug\net6.0\MyCalculator.deps.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\bin\Debug\net6.0\MyCalculator.runtimeconfig.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\bin\Debug\net6.0\MyCalculator.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\bin\Debug\net6.0\MyCalculator.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.AssemblyInfo.cs
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\refint\MyCalculator.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\MyCalculator.genruntimeconfig.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\MyCalculator\MyCalculator\obj\Debug\net6.0\ref\MyCalculator.dll

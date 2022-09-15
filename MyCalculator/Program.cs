@@ -1,0 +1,3 @@
+﻿using MyCalculator;
+
+Methods.NUM();
